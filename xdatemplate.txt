@@ -49,6 +49,7 @@ We would like to thank the following ROMs, because if they weren't here, we coul
 [*][URL='https://github.com/LineageOS'][B]LineageOS[/B][/URL]
 [*][URL='https://github.com/StormbreakerOSS'][B]StormbreakerOSS[/B][/URL]
 [*][URL='https://github.com/ProtonAOSP'][B]ProtonAOSP[/B][/URL]
+[*][URL='https://github.com/Wave-Project'][B]Wave Project[/B][/URL]
 [*][URL='https://github.com/PixelExperience'][B]Pixel Experience[/B][/URL]
 [/LIST]
 
@@ -56,3 +57,6 @@ We would like to thank the following ROMs, because if they weren't here, we coul
 [CENTER][SIZE=6]Source Code:[/SIZE]
 [SIZE=4][URL='https://github.com/StyxProject']ROM Source[/URL]
 [URL='https://github.com/StyxProject-Devices']Device Source[/URL][/SIZE][/CENTER]
+
+[SIZE=6]Donate:[/SIZE]
+[SIZE=4][URL='https://paypal.me/malviml']PayPal[/URL][/SIZE][/CENTER]
