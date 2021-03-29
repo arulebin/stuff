@@ -2,6 +2,14 @@
 [CENTER]
 The Styx Project is a custom Android based distribution that aims to subtly enhance the beauty of stock Android while still keeping the smoothness, stability, neatness and performance of pure AOSP. 
 
+[B]ROM Version:[/B] 1.2
+
+[B]Device: [/B] Rosy
+
+[B]Maintainer:[/B] Ebin
+
+[B]Build Status:[/B] Official
+
 [CODE]/* Your warranty is now void.
 *
 * I am not responsible for bricked devices, dead SD cards,
@@ -37,7 +45,7 @@ Our whole team comprising of maintainers. source developers and designers can be
 
 [B]1.[/B] Download the ROM, Magisk (Optional).
 [B]2.[/B] Wipe System, Data, Dalvik, Cache.
-[B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
+[B]3.[/B] Flash the ROM, Magisk (Optional).
 [B]4.[/B] Reboot and Enjoy.
 
 [B]GAPPS ARE PREINCLUDED[/B]
@@ -58,7 +66,7 @@ We would like to thank the following ROMs, because if they weren't here, we coul
 [CENTER][SIZE=6]Source Code:[/SIZE]
 [SIZE=4][URL='https://github.com/StyxProject']ROM Source[/URL]
 [URL='https://github.com/StyxProject-Devices']Device Source[/URL]
-[URL='your kernel source link here']Kernel Source[/URL][/SIZE][/CENTER]
+[URL='https://github.com/StyxProject-Devices/kernel_xiaomi/rosy']Kernel Source[/URL][/SIZE][/CENTER]
 
 [CENTER][SIZE=6]Donate:[/SIZE]
 [SIZE=4][URL='https://paypal.me/malviml']PayPal[/URL][/SIZE][/CENTER]
